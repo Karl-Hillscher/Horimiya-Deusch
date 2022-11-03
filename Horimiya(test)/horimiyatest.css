@@ -1,0 +1,302 @@
+html {
+    scroll-behavior: smooth;
+   }
+  
+  body {
+    background: #000;
+    color: #fff;
+    padding: 0px 25px;
+    font-family: sans-serif;
+  }
+  
+  /* Background */
+  header {
+    background-image: url("https://wallpapercave.com/wp/wp6983193.jpg");
+    background-size: cover;
+    padding-bottom: 140px;
+    color:#000;
+    height: 500px;
+    padding-top: 10px;
+  }
+  
+  .column { 
+    min-width:50%;
+    min-height:70%;
+    Max-width:100%;
+    display: relative;
+    Margin: 0;
+    }
+
+    .banner {
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+    }
+
+
+
+  /* Zusammenfassung */
+  
+  div#uff{
+    background-color: rgb(40, 40, 40, 0.75);
+    border: 2px solid #4a1287;
+    border-radius: 12px;
+    margin-left: 30px;
+    margin-right: 15px;
+    color: white;
+    margin-top: 90px;
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-basis: content;
+  }
+  
+  /* Video */
+  
+  div#nonameideasanymore {    
+    margin-top: 20px;
+    margin-right: 288px;
+    margin-left: 15px;
+    padding-right: 15px;
+    min-width: 30%;
+    max-width: 80%;
+    height: auto;
+    display: flex;
+    justify-content: right;
+    border-radius: 15px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-basis: content;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #navigation {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  #navname {
+    color: #4a1287;
+    text-align: center;
+  }
+  /* "Horimiya" */
+  
+  h1 {
+      color: #4a1287;
+      text-align: center;
+      font-size: 40px;
+      margin-top: 80px;
+  }
+  
+  /* Names */
+  h3 {
+    font-size: 20px;
+    color: #4a1287;
+    margin-left: 15px;
+  }
+  
+  /*  texts */
+  
+  p {
+    font-size: 19px;
+    text-align: left;
+  }
+  
+  /* "Characters" */
+  
+  h2 {
+    text-align: center;
+    font-size: 30px;
+    color: #4a1287;
+  }
+  
+  /* character descriptions */
+  div#kyouko {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#izumi {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#yuki {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#tooru {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#honoka {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#syu {
+  background-color: #666666;
+  border: 4px solid #4a1287;
+  border-radius: 12px;
+  margin-bottom: 10px;
+  padding-bottom: 25px;
+  }
+  
+  div#kakeru {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#remi {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#sakura {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#akane {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#kouichi {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#chika {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#motoko {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#aoi {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#makio {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#taiki {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#ichirou {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+  
+  div#souta {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 25px;
+  }
+  
+  div#yuuna {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    padding-bottom: 47px;
+  }
+  
+
+  #where {
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  #watch {
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  /* icons */
+  img#img {
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+  
+  
+  div#center {
+    text-align: center;
+    font-size: 15;
+  }
+  
+  div#footer {
+    background-color: #666666;
+    border: 4px solid #4a1287;
+    border-radius: 12px;
+    margin-bottom: 10px;
+  }
+
+  @media only screen and (max-width: 900px) {
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+      }
+  }

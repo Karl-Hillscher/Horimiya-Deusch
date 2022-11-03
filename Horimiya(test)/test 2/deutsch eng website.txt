@@ -1,0 +1,9 @@
+<div  class="w3-row-padding flex-container" id="banner">
+                    <div id="uff" class="column" class="w3-third" class="top8">
+                        <p>German</p>
+                    </div>
+                    <div id="uff" class="column" class="w3-third" class="top8">
+                        <p href="test2html.html">English</p>
+                    </div>
+                </div>
+                <!--Banner
